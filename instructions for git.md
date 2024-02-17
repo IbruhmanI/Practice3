@@ -49,3 +49,20 @@
 - git remote add origin [Ссылка]
 - git branch -M main
 - git push -u origin main
+- git clone [Ссылка]
+
+1. git remote add origin [Ссылка]
+
+Создаем место для наших файлов в гитхабе
+
+2. git branch -M main 
+
+Делаем мастер ветку главной
+
+3. git push -u origin main 
+
+Отправляем наши файлы на гитхаб
+
+4. git clone [Ссылка]
+
+Копируем чужой репозиторий себе на пк
