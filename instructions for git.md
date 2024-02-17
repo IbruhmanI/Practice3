@@ -41,3 +41,11 @@
 ### 8. git status
 
 Для оценки есть ли измениния в файлах или нет
+
+# Инструкция по удаленному репозиторию
+
+## Основные команды 
+
+- git remote add origin [Ссылка]
+- git branch -M main
+- git push -u origin main
